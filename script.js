@@ -1,35 +1,8 @@
-let yourArray = [
-	[
-    {
-      one: 1,
-      two: 2
-    }
+let yourArray;
+// assign your array the correct value in the next line
+// your code here!
+// code end
 
-  ],
-  [
-    {
-      a: "a",
-      b: "b"
-    }
-  ],
-  [
-    {
-      a: true,
-      b: false
-    }
-  ]
-	,
-  [
-    {
-      a: true,
-      b: false
-    }
-  ]
-	,
-  [
-    {
-      a: true,
-      b: false
-    }
-  ]
-]
+yourArray = ['one', 2, 'three', true, 5, false];
+
+module.exports = yourArray
